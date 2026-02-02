@@ -1,1 +1,1 @@
-This folder stores the notes I make when studying on Hacksplaining.
+This folder stores the notes I make after learning all modules on Hacksplaining. The focus is on understanding web vulnerabilities, the impacts and defensive measures to prevent or mitigate the attack.
