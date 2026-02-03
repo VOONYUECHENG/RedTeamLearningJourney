@@ -23,7 +23,7 @@ An attacker discovers a file delete button that doesn't verify CSRF tokens in an
 -  Implement multi-factor authentication when performing state-changing actions (like deleting files, changing password, etc.).
 -  Verify Origin and Referer headers. 
 
-## Key Lesson
+## Key Lessons
 -  Unlike XSS, which exploits users' trust in the website, CSRF exploits the website's trust in the users.
 -  CSRF tokens are the primary defense against CSRF attacks.
 -  Cookies are automatically included in cross-site requests.
