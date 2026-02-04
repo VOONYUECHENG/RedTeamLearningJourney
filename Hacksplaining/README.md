@@ -1,1 +1,1 @@
-This folder stores the notes I make after learning all modules on Hacksplaining. The focus is on understanding core web vulnerabilities, the impacts and defensive measures to prevent or mitigate the attack.
+This folder documents my learning from Hacksplaining after going through all modules. The focus is on understanding core web vulnerabilities, the impacts and defensive measures to prevent or mitigate the attack.
