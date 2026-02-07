@@ -16,4 +16,7 @@ This folder documents my learning from Hacksplaining after going through all mod
 -  Document my web security learning
 -  Reinforce concepts through summarization
 
+## Certifications
+-  Hacksplaining Security Training Certificate of Completion
+
 ⚠️ This repository is for personal educational purposes only.
