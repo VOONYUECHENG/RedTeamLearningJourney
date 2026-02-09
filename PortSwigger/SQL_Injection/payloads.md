@@ -14,7 +14,7 @@ Used to infer conditions by observing differences in application responses.
 ## Time-based
 Used when no data or errors are returned. Inference is made based on response delays.
 
--  `SELECT IF(CONDITION-HERE,SLEEP(10),'a')`
+-  `SELECT IF(YOUR-CONDITION-HERE,SLEEP(10),'a')`
 -  `SELECT SLEEP(10)`
 
 ## Error-based (Conditional)
