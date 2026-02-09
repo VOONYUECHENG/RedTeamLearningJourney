@@ -2,7 +2,7 @@
 **Notes**: Different database systems use different SQL syntax.
 Examples below are based on MYSQL.
 
-Reference:
+**Reference**:
 PortSwigger SQL Injection Cheat Sheet https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 ## Boolean-based
