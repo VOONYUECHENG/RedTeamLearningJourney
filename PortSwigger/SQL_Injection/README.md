@@ -8,6 +8,6 @@ through PortSwigger Web Security Academy labs.
 -  Exploiting error-based, union-based, and blind SQL injection.
 -  Observing real-world filtering and defenses.
 
-## Check:
+## Files:
 -  `notes.md` for lab observations and lessons.
 -  `payloads.md` for commonly used payload patterns.
