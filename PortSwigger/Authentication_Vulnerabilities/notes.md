@@ -53,7 +53,7 @@ In PortSwigger Web Security Academy labs, these vulnerabilities commonly arise d
 -  Security controls are often present but inconsistently enforced
 -  Defense mechanisms must be applied end-to-end, not partially
 
-## General Remediation Observations
+## Remediation
 -  Use generic error messages for authentication failures
 -  Enforce strong rate limiting and account lockout policies
 -  Bind authentication tokens to users and sessions
