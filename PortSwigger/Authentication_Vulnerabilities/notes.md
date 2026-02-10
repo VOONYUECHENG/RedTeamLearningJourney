@@ -23,9 +23,10 @@ In PortSwigger Web Security Academy labs, these vulnerabilities commonly arise d
 -  No account lockout or request throttling after a certain amount of tries.
 -  Only valid username gets account lockout.
 -  Incomplete protections that can be bypassed using:
---  IP rotation.
---  Parallel requests.
---  Correct credential ordering.
+
+  -  IP rotation.
+  -  Parallel requests.
+  -  Correct credential ordering.
 
 ### Multi-Factor Authentication (MFA)
 -  MFA codes not tied to a specific session or user.
@@ -53,9 +54,10 @@ In PortSwigger Web Security Academy labs, these vulnerabilities commonly arise d
 -  Password change endpoint trusts client-side values.
 -  Ability to change another user’s password by modifying parameters.
 -  Different behaviour from different input (attackers can brute-force old password by checking behaviour):
---  Wrong old password, same for new password and new password confirmation.
---  Wrong old password, different for new password and new password confirmation.
---  Correct old password, different for new password and new password confirmation.
+
+  -  Wrong old password, same for new password and new password confirmation.
+  -  Wrong old password, different for new password and new password confirmation.
+  -  Correct old password, different for new password and new password confirmation.
 
 ## Key Lessons from Labs
 -  Authentication vulnerabilities are often logic flaws, not input-based issues.
