@@ -11,4 +11,3 @@ Focus areas:
 Check:
 -  `notes.md` for lab observations and lessons
 -  `payloads.md` for commonly used payload patterns
--  `labs.md` for selected lab walkthroughs
