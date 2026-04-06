@@ -12,4 +12,4 @@ This folder documents my hands-on learning of access control vulnerabilities thr
 
 ## Files:
 - `notes.md` – key concepts and observations
-- `attack_techniques.md` – practical exploitation techniques
+- `attack_scenarios.md` – practical exploitation techniques
